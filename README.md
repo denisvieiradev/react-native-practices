@@ -13,6 +13,7 @@
 7.  [ ] — [CodeQuinta #4 - Mapas no React Native](https://www.youtube.com/watch?v=2takPFib5uE)
 8.  [ ] — [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/)
 9.  [ ] — [React Hooks na prática | Diego Fernandes](https://www.youtube.com/watch?v=6WB16wZS61c)
+10. [ ] — [Criando sua própria template no React Native | Claudio Orlandi](https://www.youtube.com/watch?v=p6d3RzhgQbA)
 
 ### ARTICLES
 
